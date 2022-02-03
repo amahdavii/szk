@@ -81,6 +81,16 @@ body {
   }
 }
 
+
+
+#tab-content-2 {
+  display: none;
+}
+
+#tab-content-3 {
+  display: none;
+}
+
 /*** Responsive Menu ***/
 
 /* menu icon */
@@ -312,11 +322,13 @@ body {
       color: #494f55;
     }
 
-    &:first-child {
-      background: #059fb7;
-      color: #fff;
-    }
+
   }
+}
+
+.active-tab {
+  background: #059fb7!important;
+  color: #fff;
 }
 
 .szk-story-desc {
@@ -893,7 +905,6 @@ body {
   .header-section {
     background-position: right;
   }
-
 
   .szk-story-desc h3 {
     font-size: 20px;

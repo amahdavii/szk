@@ -11180,6 +11180,14 @@ body {
   color: #fff;
 }
 
+#tab-content-2 {
+  display: none;
+}
+
+#tab-content-3 {
+  display: none;
+}
+
 /*** Responsive Menu ***/
 /* menu icon */
 .menu-icon {
@@ -11391,8 +11399,9 @@ body {
   text-decoration: none;
   color: #494f55;
 }
-.story-itames li:first-child {
-  background: #059fb7;
+
+.active-tab {
+  background: #059fb7 !important;
   color: #fff;
 }
 
@@ -11878,10 +11887,6 @@ body {
     width: 75%;
     margin: 0 auto;
     font-size: 25px;
-    position: absolute;
-    top: 20%;
-    right: 13%;
-    text-align: center;
   }
 
   .szk-services-desc {
