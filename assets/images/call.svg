@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 25 25">
+    <g transform="translate(2424 -3744)">
+        <circle data-name="Ellipse 13" cx="12.5" cy="12.5" r="12.5" transform="translate(-2424 3744)" style="fill:#05a5be"/>
+        <g data-name="phone_enabled_black_24dp (1)">
+            <path data-name="Rectangle 43" transform="translate(-2420 3748)" style="fill:none" d="M0 0h17v17H0z"/>
+            <g data-name="Group 8">
+                <g data-name="Group 7">
+                    <path data-name="Path 45" d="m4.271 11.726 1.805-.206a1.415 1.415 0 0 1 1.166.405l1.308 1.308a10.693 10.693 0 0 0 4.683-4.683l-1.315-1.316a1.415 1.415 0 0 1-.405-1.166l.206-1.791a1.422 1.422 0 0 1 1.414-1.257h1.229a1.41 1.41 0 0 1 1.421 1.471A12.076 12.076 0 0 1 4.491 15.784a1.41 1.41 0 0 1-1.471-1.421v-1.23a1.409 1.409 0 0 1 1.251-1.407z" transform="translate(-2420.888 3747.112)" style="fill:#fff"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

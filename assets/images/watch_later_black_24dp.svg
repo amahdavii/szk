@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+    <g data-name="Group 14">
+        <path data-name="Rectangle 45" style="fill:none" d="M0 0h30v30H0z"/>
+    </g>
+    <g data-name="Group 16">
+        <g data-name="Group 15">
+            <path data-name="Path 49" d="M14.749 2A12.749 12.749 0 1 0 27.5 14.749 12.786 12.786 0 0 0 14.749 2zm4.526 17.594-5.2-3.2a1.257 1.257 0 0 1-.612-1.084V9.331a.983.983 0 0 1 .969-.956.963.963 0 0 1 .956.956V15l4.9 2.945a.964.964 0 1 1-1.007 1.645z" transform="translate(.3 .3)" style="fill:#05a5be"/>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 25 25">
+    <g transform="translate(-1760 -4282.5)">
+        <circle data-name="Ellipse 13" cx="12.5" cy="12.5" r="12.5" transform="translate(1760 4282.5)" style="fill:#05a5be"/>
+        <g data-name="place_black_24dp (5)">
+            <g data-name="Group 11">
+                <path data-name="Rectangle 44" style="fill:none" d="M0 0h12v12H0z" transform="translate(1767 4289)"/>
+            </g>
+            <g data-name="Group 12">
+                <path data-name="Path 48" d="M8 2a3.977 3.977 0 0 0-4 4.1q0 2.385 3.67 5.615a.509.509 0 0 0 .665 0Q11.995 8.482 12 6.1A3.977 3.977 0 0 0 8 2zm0 5a1 1 0 1 1 1-1 1 1 0 0 1-1 1z" transform="translate(1765 4288)" style="fill:#fff"/>
+            </g>
+        </g>
+    </g>
+</svg>
